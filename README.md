@@ -1,4 +1,4 @@
-# Procesamiento del Ñenguaje Natural con Python y Power BI
+# Procesamiento del Lenguaje Natural con Python y Power BI
 
 Este proyecto es un curso práctico y efectivo para aprender acerca del Procesamiento Natural del Lenguaje, centrándote en la parte de Topic Modelling. Aprenderas a como analizar tus textos mediante Python y Pycaret. También aprenderás a añadir capacidades de NLP a tus dashboards en Power BI.
 
